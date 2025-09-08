@@ -1,6 +1,6 @@
 # SaaS-Performance-Analytics
 ## Project Overview
-This repository contains a comprehensive analysis of key performance metrics for a fictional SaaS company, Ravenstack. The project's purpose is to identify critical drivers of customer churn and revenue contraction, providing actionable, data-backed insights to improve business strategy and customer retention using **SQL**. The dataset is sourced from kaggle.
+This repository contains a comprehensive analysis of key performance metrics for a fictional SaaS company, Ravenstack. The project's purpose is to identify critical drivers of customer churn and revenue contraction, providing actionable, data-backed insights to improve business strategy and customer retention using **SQL**. The datasets are sourced from kaggle.
 
 ## Project Phases & Analysis
 The project is structured into five distinct phases.
